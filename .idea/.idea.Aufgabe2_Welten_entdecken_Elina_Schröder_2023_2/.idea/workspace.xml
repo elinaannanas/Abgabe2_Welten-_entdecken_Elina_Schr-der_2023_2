@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eb664c05-f124-4c8f-b7c4-a8ef4b5d6009" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aufgabe2_Welten_entdecken_Elina_Schröder_2023_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aufgabe2_Welten_entdecken_Elina_Schröder_2023_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/BackgroundCard_01.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/BackgroundCard_01.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/BackgroundCard_02.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/BackgroundCard_02.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/BackgroundCard_03.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/BackgroundCard_03.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/Clouds.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/Clouds.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Dust.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Dust.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Fire.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Fire.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Smoke.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Smoke.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Train_Smoke.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/FX_Train_Smoke.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/Light.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/Light.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/SimpleSky.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/SimpleSky.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/Water.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Materials/Misc/Water.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_CharacterAttachments_Pouch_02.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_CharacterAttachments_Pouch_02.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Cactus_08.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonWestern/Models/SM_Env_Cactus_08.fbx.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Camera_Script.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Camera_Script.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player_Script.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player_Script.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +47,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2o1h6Q1hVRdZXLliAHbl9p7ubJi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,10 +60,59 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\frosc\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\frosc\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\frosc\\AppData\\Local\\Symbols\\src"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.1.11f1\2022.3.46f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath D:\Aufgabe2_Welten_entdecken_Elina_Schröder_2023_2 -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Aufgabe2_Welten_entdecken_Elina_Schröder_2023_2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2023.1.11f1\2022.3.46f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Aufgabe2_Welten_entdecken_Elina_Schröder_2023_2 -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Aufgabe2_Welten_entdecken_Elina_Schröder_2023_2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,10 +122,15 @@
       <option name="presentableId" value="Default" />
       <updated>1730042815051</updated>
       <workItem from="1730042819225" duration="65000" />
+      <workItem from="1730140426268" duration="1188000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
