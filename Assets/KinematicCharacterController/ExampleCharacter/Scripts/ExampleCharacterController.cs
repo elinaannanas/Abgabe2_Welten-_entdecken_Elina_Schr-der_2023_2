@@ -89,6 +89,8 @@ namespace KinematicCharacterController.Examples
         private Vector3 lastInnerNormal = Vector3.zero;
         private Vector3 lastOuterNormal = Vector3.zero;
 
+        [SerializeField] private Animator animator;
+        
         private void Awake()
         {
             // Handle initial state
